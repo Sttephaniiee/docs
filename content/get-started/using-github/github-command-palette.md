@@ -23,6 +23,7 @@ When you open the command palette, the suggestions are optimized to give you eas
 The ability to run commands directly from your keyboard, without navigating through a series of menus, may change the way you use {% data variables.product.prodname_dotcom %}. For example, you can switch themes with a few keystrokes, making it easy to toggle between themes as your needs change.
 
 ![Command palette change theme](/assets/images/help/command-palette/command-palette-command-change-theme.png)
+![1654889198099](https://user-images.githubusercontent.com/107313123/173195133-a88c82b2-3427-49a6-a673-20216f81adcb.jpg)
 
 ## Opening the {% data variables.product.prodname_command_palette %}
 
